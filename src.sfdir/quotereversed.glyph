@@ -1,0 +1,22 @@
+StartChar: quotereversed
+Encoding: 8219 8219 2705
+Width: 538
+VWidth: 0
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Colour: 1cb8d1
+EndChar

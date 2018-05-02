@@ -1,0 +1,29 @@
+StartChar: uni0284
+Encoding: 644 644 644
+Width: 538
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 538
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 643 643 N 1 0 0 1 0 0 2
+Colour: f71a0d
+EndChar

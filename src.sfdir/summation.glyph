@@ -1,0 +1,21 @@
+StartChar: summation
+Encoding: 8721 8721 2767
+Width: 7
+VWidth: 0
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+EndChar

@@ -1,0 +1,388 @@
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E0:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E0:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E1:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E2:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E3:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E4:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E5:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E7:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E8:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00E9:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00EA:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00EB:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00F2:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+
+        * U+00F3:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00F4:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00F5:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00F6:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0101:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0103:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+        * U+0105:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0107:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0109:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+010B:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+010D:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0111:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0112:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0113:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+        * U+0115:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0116:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0116:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+        * U+0117:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0118:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0119:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+        * U+011A:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+011B:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+014D:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+        * U+0114F:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0151:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0165:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0167:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+0183:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+018C:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01A1:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01CE:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01D2:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01DF:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01E1:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01EB:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01ED:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01F5:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01F8:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01F9:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01FB:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+01FC:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+2018-05-02  Bradley <bmj@gmx.it>
+
+        * U+00FE:
+        Fix issue with incorrect display under all environments.
+        Tested and confirmed on graphical and non-graphical terminals under
+        X11.
+
+
+   Copyright (C) 2018 Bradley Jones.
+   This file is part of the Monomacs distribution.
+
+   This Font Software is licensed under the SIL Open Font License, Version 1.1.
+   This license is copied below, and is also available with a FAQ at:
+   <http://scripts.sil.org/OFL>

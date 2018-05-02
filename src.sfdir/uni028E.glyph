@@ -1,0 +1,21 @@
+StartChar: uni028E
+Encoding: 654 654 654
+Width: 538
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+EndChar

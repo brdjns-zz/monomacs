@@ -1,0 +1,22 @@
+StartChar: uni0471
+Encoding: 1137 1137 1137
+Width: 538
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 7
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 352
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+EndChar

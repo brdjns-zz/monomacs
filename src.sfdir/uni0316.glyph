@@ -1,0 +1,22 @@
+StartChar: uni0316
+Encoding: 790 790 790
+Width: 538
+VWidth: 0
+Flags: W
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 7
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 352
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+EndChar

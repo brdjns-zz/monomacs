@@ -1,0 +1,27 @@
+StartChar: uni2010
+Encoding: 8208 8208 2741
+Width: 538
+VWidth: 0
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+Width: 538
+VWidth: 0
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 661 661 N 1 0 0 1 0 0 2
+InstructionsLength: 0
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+EndChar

@@ -1,0 +1,32 @@
+INSTALL
+
+These instructions should work on Debian GNU/Linux, Arch Linux and Ubuntu.
+If your distribution has bitmap fonts disabled you have two options available to
+you: you can can reenable them globally or enable only Monomacs for use in
+X11 applications. This guide provides instructions for the latter.
+
+Place Monomacs-13.bdf in either your ~/.fonts directory for your own use,
+or /usr/share/fonts for all users. Before you can use it you have to whitelist it
+so that X11 knows to use it.
+
+Visit a new file:
+
+$ sudo touch /etc/fonts/conf.d/50-enable-monomacs.conf
+
+and write the following to it:
+
+<!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+<fontconfig>
+  <selectfont>
+    <acceptfont>
+      <pattern>
+        <patelt name="family"><string>monomacs</string></patelt>
+      </pattern>
+    </acceptfont>
+  </selectfont>
+</fontconfig>
+
+Finally, update your font cache to make the font available for use:
+
+$ fc-cache -vf 
+

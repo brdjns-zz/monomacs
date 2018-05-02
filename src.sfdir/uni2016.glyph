@@ -1,0 +1,22 @@
+StartChar: uni2016
+Encoding: 8214 8214 2736
+Width: 538
+VWidth: 0
+Flags: HW
+LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Colour: 1cb8d1
+EndChar
