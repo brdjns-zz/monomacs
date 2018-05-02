@@ -7,19 +7,21 @@ X11's Fixed.
 This file is part of the Monomacs distribution and describes Monomacs 3.10 of
 2018-04-02.
 
-**LICENSE**
+## LICENSE ##
+
 Monomacs is licensed under the SIL Open Font License (OFL) 1.1. See LICENSE.
 It comes with absolutely no warranty, express or implied.
 
-**STATUS**
+## STATUS ##
+
 Note: Monomacs is currently still under active development and is probably
 filled with bugs both trivial and major. Use at your own discretion.
 
-**COMPATIBILITY**
+## COMPATIBILITY ##
 Monomacs is compatible with all Unix and Unix-like systems that support BDF.
 It is not compatible with any version of Windows.
 
-**DESCRIPTION**
+## DESCRIPTION ##
 Monomacs is a bitmapped programming font designed for extended use on both
 graphical and non-graphical terminals. Monomacs exhibits all the hallmarks of
 fit-for-purpose programming fonts in:
@@ -37,7 +39,7 @@ fit-for-purpose programming fonts in:
   buffer real-estate, both vertically (small leading) and horizontally
   (close spacing).
   
-**FORMATS**
+## FORMATS ##
 Monomacs is currently available in one format (.bdf), point size (13 @ 75 dpi),
 and one weight (regular). 
 
@@ -53,7 +55,7 @@ A .psf variant for use in the Linux or *BSD consoles may be considered in the
 near future, when the majority of the font's ranges is completed. .ttf formats
 are not planned but you are welcome to convert them to any format you desire.
 
-**RANGES**
+## RANGES ##
 Monomacs contains around 2 652 characters of the Unicode Basic Multilingual Plane.
 Although designed primarily as a programming font, it is nevertheless well 
 suited to technical writing, such as found in mathematics or linguistics. 
@@ -68,12 +70,12 @@ Current ranges are:
 * Combining Diacritical Marks (partially complete)
 * Modern Greek (complete)
 
-**FUTURE DEVELOPMENTS**
+## FUTURE DEVELOPMENTS ##
 
 The inclusion of the Cyrillic, polytonic Greek, Armenian, Georgian and Hebrew 
 scripts, as well are mathematical and special-use symbols.
 
-**INSTALL**
+## INSTALL ##
 
 The following instructions should work for Debian GNU/Linux, Arch Linux and Ubuntu.
 If your distribution has bitmap fonts disabled you have two options available to
@@ -112,4 +114,3 @@ Finally, update your font cache to make it available for use:
 ``` bash
 $ fc-cache -vf 
 ```
-
