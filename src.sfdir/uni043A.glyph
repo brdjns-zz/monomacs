@@ -2,13 +2,20 @@ StartChar: uni043A
 Encoding: 1082 1082 1082
 Width: 538
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 7
 WasModified: 0
 WasOrder2: 0
