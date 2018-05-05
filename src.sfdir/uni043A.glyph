@@ -1,5 +1,5 @@
 StartChar: uni043A
-Encoding: 1082 1082 1082
+Encoding: 1082 1082 1072
 Width: 538
 VWidth: 0
 Flags: HW
@@ -13,14 +13,6 @@ Type: 3
 WasModified: 0
 WasOrder2: 0
 Layer: 2
-EndUndoOperation
-UndoOperation
-Index: 1
-Type: 7
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 352
 EndUndoOperation
 EndUndoes
 Redoes

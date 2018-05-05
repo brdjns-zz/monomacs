@@ -1,5 +1,5 @@
 StartChar: Amacron
-Encoding: 256 256 256
+Encoding: 256 256 255
 Width: 538
 VWidth: 0
 Flags: W

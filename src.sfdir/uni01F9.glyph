@@ -1,5 +1,5 @@
 StartChar: uni01F9
-Encoding: 505 505 505
+Encoding: 505 505 504
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -24,6 +24,6 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 111 110 N 1 0 0 1 0 0 2
+Refer: 110 110 N 1 0 0 1 0 0 2
 Colour: f71a0d
 EndChar
