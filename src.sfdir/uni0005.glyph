@@ -17,13 +17,6 @@ Width: 1000
 EndUndoOperation
 EndUndoes
 Redoes
-RedoOperation
-Index: 0
-Type: 4
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-EndRedoOperation
 EndRedoes
 EndUndoRedoHistory
 EndChar

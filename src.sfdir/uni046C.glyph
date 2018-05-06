@@ -14,14 +14,6 @@ WasModified: 0
 WasOrder2: 0
 Layer: 2
 EndUndoOperation
-UndoOperation
-Index: 1
-Type: 7
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 352
-EndUndoOperation
 EndUndoes
 Redoes
 EndRedoes

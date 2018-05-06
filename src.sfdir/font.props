@@ -5,7 +5,7 @@ FamilyName: Monomacs
 Weight: Regular
 Copyright: (c) 2018 Bradley Jones. All rights reserved.
 UComments: "Monomacs is a bitmapped programmer's font."
-Version: 002.200
+Version: 003.200
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1524326416
-ModificationTime: 1525520423
+ModificationTime: 1525520979
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -52,7 +52,7 @@ NameList: AGL For New Fonts
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 85 17 9
+WinInfo: 680 17 9
 BeginPrivate: 0
 EndPrivate
 EndSplineFont
