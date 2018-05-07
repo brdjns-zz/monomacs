@@ -1,5 +1,5 @@
 StartChar: iotadieresistonos
-Encoding: 912 912 903
+Encoding: 912 912 841
 Width: 538
 VWidth: 0
 Flags: HW
@@ -24,5 +24,5 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 960 970 N 1 0 0 1 0 0 2
+Refer: 898 970 N 1 0 0 1 0 0 2
 EndChar

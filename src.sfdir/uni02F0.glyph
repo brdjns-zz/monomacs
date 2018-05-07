@@ -1,14 +1,21 @@
 StartChar: uni02F0
-Encoding: 752 752 751
+Encoding: 752 752 689
 Width: 538
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 7
 WasModified: 0
 WasOrder2: 0

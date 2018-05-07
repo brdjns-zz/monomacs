@@ -1,5 +1,5 @@
 StartChar: Alphatonos
-Encoding: 902 902 895
+Encoding: 902 902 833
 Width: 538
 VWidth: 0
 Flags: HW
@@ -24,5 +24,5 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 904 913 N 1 0 0 1 0 0 2
+Refer: 842 913 N 1 0 0 1 0 0 2
 EndChar

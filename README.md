@@ -2,7 +2,7 @@
 A Unicode bitmapped font for programmers inspired by Terminal, Proggy and
 X11's Fixed.
 
-Current version is **3.200**.
+Current version is **3.300**.
 
 ## License ##
 
@@ -61,12 +61,12 @@ Current ranges are:
 * Basic Latin (complete)
 * Latin-1 Supplement (complete)
 * Latin Extended-A (complete)
-* Latin Extended-B (mostly complete)
+* Latin Extended-B (complete)
 * IPA Extensions (complete)
 * Spacing Modifier Letters (complete)
 * Combining Diacritical Marks (partially complete)
 * Modern Greek (complete)
-* Cyrillic (partially complete)
+* Cyrillic (complete)
 
 ## Future developments ##
 

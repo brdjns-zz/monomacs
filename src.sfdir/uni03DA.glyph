@@ -1,5 +1,5 @@
 StartChar: uni03DA
-Encoding: 986 986 976
+Encoding: 986 986 914
 Width: 538
 VWidth: 0
 Flags: HW
@@ -19,5 +19,5 @@ Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 660 661 N 1 0 0 1 0 0 2
+Refer: 598 661 N 1 0 0 1 0 0 2
 EndChar
