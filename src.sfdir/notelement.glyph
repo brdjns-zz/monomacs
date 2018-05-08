@@ -9,6 +9,13 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 1
 Type: 1
 WasModified: 1
 WasOrder2: 0
@@ -23,6 +30,4 @@ EndUndoes
 Redoes
 EndRedoes
 EndUndoRedoHistory
-Fore
-Refer: 2243 8712 N 1 0 0 1 0 0 2
 EndChar

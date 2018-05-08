@@ -1,7 +1,46 @@
 StartChar: uni1E97
 Encoding: 7831 7831 1494
-Width: 1000
+Width: 538
 VWidth: 0
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 7
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+Width: 7
+EndUndoOperation
+UndoOperation
+Index: 1
+Type: 7
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+Width: 1000
+EndUndoOperation
+UndoOperation
+Index: 2
+Type: 4
+WasModified: 1
+WasOrder2: 0
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 3
+Type: 7
+WasModified: 0
+WasOrder2: 0
+Layer: 2
+Width: 1000
+EndUndoOperation
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Colour: ff00
 EndChar
